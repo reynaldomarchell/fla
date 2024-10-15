@@ -1,0 +1,12 @@
+ChocoHouse is a company that produces various types of premium chocolates. They want to develop an automated system to manage chocolate orders from customers. Each chocolate can either be a ChocolateBar or a Truffle. Both types of chocolates have different characteristics, but they share common attributes like name, flavor (sweet, bitter, salty), and additional ingredients (e.g., nuts, fruits, etc.). The price for each chocolate should be displayed based on the selected payment method, which could be Cash, Card, or Digital Wallet.
+
+The system must meet the following requirements:
+
+- Use the Factory Method Pattern to produce ChocolateBar and Truffle.
+- Use the Singleton Pattern to store chocolate order data in a database that must have only one instance throughout the program's runtime.
+- Use the Adapter Pattern to calculate the price based on the customer's chosen payment method.
+
+Write a Java program for ChocoHouse that fulfills these requirements. The program should be able to:
+- Manage the creation of chocolate orders with valid attributes (chocolate name, flavor, ingredients).
+- Calculate the price based on the selected payment method.
+- Store the orders in a database and display all created orders.
