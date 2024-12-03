@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="model.PlainTshirt"/>
-    <fullyQualifiedTypeName name="model.PlainPants"/>
-    <fullyQualifiedTypeName name="model.GraphicTshirt"/>
-    <fullyQualifiedTypeName name="model.GraphicPants"/>
-    <fullyQualifiedTypeName name="model.Tshirt"/>
-    <fullyQualifiedTypeName name="model.Pants"/>
-    <fullyQualifiedTypeName name="factory.PlainFactory"/>
-    <fullyQualifiedTypeName name="model.ProductStore"/>
-    <fullyQualifiedTypeName name="factory.GraphicFactory"/>
-    <fullyQualifiedTypeName name="model.Shoes"/>
     <fullyQualifiedTypeName name="model.GraphicShoes"/>
     <fullyQualifiedTypeName name="model.PlainShoes"/>
     <fullyQualifiedTypeName name="factory.AbstractFactory"/>
@@ -42,7 +32,6 @@
     <fullyQualifiedTypeName name="protection.DatabaseProxy"/>
     <fullyQualifiedTypeName name="virtual.ImagePreview"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="virtual.IImagePreview"/>
     <fullyQualifiedTypeName name="virtual.ImagePreviewProxy"/>
     <fullyQualifiedTypeName name="cache.Product"/>
@@ -50,14 +39,25 @@
     <fullyQualifiedTypeName name="cache.IProductRepository"/>
     <fullyQualifiedTypeName name="cache.ProductRepository"/>
     <fullyQualifiedTypeName name="cache.ProductRepositoryCache"/>
-    <fullyQualifiedTypeName name="main.Main"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="object.Customer"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Observer"/>
     <fullyQualifiedTypeName name="observer.Observer"/>
     <fullyQualifiedTypeName name="observer.NormalCustomer"/>
     <fullyQualifiedTypeName name="observer.VIPCustomer"/>
     <fullyQualifiedTypeName name="observable.Restaurant"/>
     <fullyQualifiedTypeName name="object.Promo"/>
+    <fullyQualifiedTypeName name="main.Main"/>
+    <fullyQualifiedTypeName name="mediator.ChatMediator"/>
+    <fullyQualifiedTypeName name="mediator.ChatRoom"/>
+    <fullyQualifiedTypeName name="java.nio.file.attribute.UserDefinedFileAttributeView"/>
+    <fullyQualifiedTypeName name="mediator.ChatUser"/>
+    <fullyQualifiedTypeName name="mediator.User"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="iterator.University"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="iterator.Student"/>
+    <fullyQualifiedTypeName name="iterator.Iterator"/>
 </qualifiedTypeNameHistroy>
