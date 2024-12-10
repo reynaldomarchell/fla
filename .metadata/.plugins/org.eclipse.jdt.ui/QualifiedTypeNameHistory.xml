@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="model.GraphicShoes"/>
-    <fullyQualifiedTypeName name="model.PlainShoes"/>
-    <fullyQualifiedTypeName name="factory.AbstractFactory"/>
-    <fullyQualifiedTypeName name="model.VintageTshirt"/>
-    <fullyQualifiedTypeName name="model.VintagePants"/>
-    <fullyQualifiedTypeName name="model.VintageShoes"/>
-    <fullyQualifiedTypeName name="factory.VintageFactory"/>
-    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
     <fullyQualifiedTypeName name="adapters.PaymentAdapter"/>
     <fullyQualifiedTypeName name="adapters.CashPaymentAdapter"/>
     <fullyQualifiedTypeName name="adapters.CardPaymentAdapter"/>
@@ -47,17 +39,25 @@
     <fullyQualifiedTypeName name="observer.VIPCustomer"/>
     <fullyQualifiedTypeName name="observable.Restaurant"/>
     <fullyQualifiedTypeName name="object.Promo"/>
-    <fullyQualifiedTypeName name="main.Main"/>
     <fullyQualifiedTypeName name="mediator.ChatMediator"/>
     <fullyQualifiedTypeName name="mediator.ChatRoom"/>
     <fullyQualifiedTypeName name="java.nio.file.attribute.UserDefinedFileAttributeView"/>
     <fullyQualifiedTypeName name="mediator.ChatUser"/>
     <fullyQualifiedTypeName name="mediator.User"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="iterator.University"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="iterator.Student"/>
     <fullyQualifiedTypeName name="iterator.Iterator"/>
+    <fullyQualifiedTypeName name="main.Main"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.awt.Taskbar.State"/>
+    <fullyQualifiedTypeName name="state.ChefCookState"/>
+    <fullyQualifiedTypeName name="state.State"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="state.ChefDeliverState"/>
+    <fullyQualifiedTypeName name="java.lang.ThreadDeath"/>
+    <fullyQualifiedTypeName name="model.Chef"/>
+    <fullyQualifiedTypeName name="state.ChefIdleState"/>
 </qualifiedTypeNameHistroy>
