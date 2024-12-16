@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="adapters.PaymentAdapter"/>
-    <fullyQualifiedTypeName name="adapters.CashPaymentAdapter"/>
-    <fullyQualifiedTypeName name="adapters.CardPaymentAdapter"/>
-    <fullyQualifiedTypeName name="adapters.DigitalWalletPaymentAdapter"/>
-    <fullyQualifiedTypeName name="singleton.ChocolateDatabase"/>
-    <fullyQualifiedTypeName name="factories.ChocolateFactory"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="models.Chocolate"/>
-    <fullyQualifiedTypeName name="main.Vehicle"/>
-    <fullyQualifiedTypeName name="main.Car"/>
-    <fullyQualifiedTypeName name="main.Truck"/>
-    <fullyQualifiedTypeName name="factories.VehicleFactory"/>
-    <fullyQualifiedTypeName name="factories.CarFactory"/>
-    <fullyQualifiedTypeName name="factories.TruckFactory"/>
-    <fullyQualifiedTypeName name="client.Main"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="main.TicketBooking"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.security.PrivateKey"/>
     <fullyQualifiedTypeName name="protection.Database"/>
@@ -45,13 +28,11 @@
     <fullyQualifiedTypeName name="mediator.ChatUser"/>
     <fullyQualifiedTypeName name="mediator.User"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="iterator.University"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="iterator.Student"/>
     <fullyQualifiedTypeName name="iterator.Iterator"/>
     <fullyQualifiedTypeName name="main.Main"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.awt.Taskbar.State"/>
     <fullyQualifiedTypeName name="state.ChefCookState"/>
     <fullyQualifiedTypeName name="state.State"/>
@@ -60,4 +41,23 @@
     <fullyQualifiedTypeName name="java.lang.ThreadDeath"/>
     <fullyQualifiedTypeName name="model.Chef"/>
     <fullyQualifiedTypeName name="state.ChefIdleState"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="model.Police"/>
+    <fullyQualifiedTypeName name="model.BusinessMan"/>
+    <fullyQualifiedTypeName name="model.Worker"/>
+    <fullyQualifiedTypeName name="model.FireMan"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.awt.MediaTracker"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ThreadFactory"/>
+    <fullyQualifiedTypeName name="mediator.Mediator"/>
+    <fullyQualifiedTypeName name="mediator.ConcreteMediator"/>
+    <fullyQualifiedTypeName name="model.Colleague"/>
+    <fullyQualifiedTypeName name="model.Tea"/>
+    <fullyQualifiedTypeName name="model.Beverage"/>
+    <fullyQualifiedTypeName name="model.Coffee"/>
+    <fullyQualifiedTypeName name="model.HotChocolate"/>
+    <fullyQualifiedTypeName name="model.ColleagueA"/>
+    <fullyQualifiedTypeName name="model.ColleagueB"/>
 </qualifiedTypeNameHistroy>
