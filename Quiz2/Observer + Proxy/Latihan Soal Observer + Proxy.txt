@@ -1,0 +1,43 @@
+Web Notification and Authorization System
+
+You are tasked with building a Web Notification and Authorization System for a blogging platform. The system must notify users when new content is published and control access to content editing features based on user roles. The system must use the Observer Pattern and Proxy Pattern to meet the following requirements.
+
+Requirements:
+
+Menu Overview
+The system must have the following menus:
+1. Add Post
+   Allows administrators or editors to add a new blog post.
+   Only users with "Admin" or "Editor" roles can access this functionality.
+2. Update Post
+   Allows administrators or editors to update an existing blog post.
+   Only users with "Admin" or "Editor" roles can access this functionality.
+3. Delete Post
+   Allows administrators to delete a blog post.
+   Only users with the "Admin" role can access this functionality.
+4. View All Posts
+   Displays all existing blog posts to any user.
+   This is accessible to all roles (including viewers).
+5. Subscribe to Blog Updates
+   Allows users to subscribe to the blog and receive notifications when changes are made.
+   All users can access this functionality.
+6. Exit
+   Exits the program.
+
+Observer Pattern
+Implement the Observer Pattern to notify users (observers) about any changes made to blog posts.
+Users can subscribe to blog updates.
+When a post is added, updated, or deleted, all subscribed users are notified.
+
+Proxy Pattern
+Implement the Proxy Pattern to enforce role-based access control:
+Admin: Can add, update, delete posts, and view all posts.
+Editor: Can add, update posts, and view all posts.
+Viewer: Can only view posts and subscribe to updates.
+
+Dummy Users
+Add the following dummy users to the system by default:
+Alice: Role "Admin".
+Bob: Role "Editor".
+Charlie: Role "Viewer".
+These users must be automatically subscribed to blog updates upon creation.

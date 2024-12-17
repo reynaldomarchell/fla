@@ -1,0 +1,52 @@
+E-Learning Application Management System
+
+You are tasked with building an application for managing an e-learning system for the company "LearnTech". The application will manage student data registered on the platform. You must use the State Pattern and Iterator Pattern based on the following criteria:
+
+When the program starts, display a menu for the user. The menu should have the following options:
+1. Register New Student
+2. View Students
+3. Exit
+
+If the user selects the Register New Student option:
+Prompt the user to input the following details:
+   Student Name: The name cannot be empty.
+   Student Age: The age must be at least 18 years.
+   Selected Course: The user must input either "Programming" or "Design" (case-sensitive).
+
+Once all data is validated, the system should:
+Generate a unique Student ID consisting of 6 random alphanumeric characters.
+Set the initial state based on the selected course:
+   Programming: The initial state is Basic Programming.
+   Design: The initial state is Basic Design.
+Display a success message and add the student data to the database.
+
+If the user selects the View Students option, perform the following steps:
+Check if the student database is empty:
+   If empty, display the message "No students registered.".
+   If the database is not empty:
+
+Iterate through the list of students using the Iterator Pattern.
+Display the following details for each student:
+   Student ID
+   Student Name
+   Age
+   Selected Course
+   Current Progress State
+
+Prompt the user to input an action:
+Input "N": Advance the student's progress to the next state.
+Input "Q": Exit viewing and return to the menu.
+
+Each course has its own progress phases, implemented using the State Pattern:
+
+Programming Course Phases
+   Basic Programming
+   Advanced Programming
+   Project Submission
+   Completed
+
+Design Course Phases
+   Basic Design
+   Advanced Design
+   Portfolio Submission
+   Completed
